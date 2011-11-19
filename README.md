@@ -1,7 +1,7 @@
 # concrete5 Custom Template Collection for Page List Block.
 
 
-## Custom Template List
+Custom Template List
 
 * Definition List With Date - `<dl>` markup with published date
 * Definition List - `<dl>` markup
@@ -12,7 +12,7 @@
 * Unordered List - `<ul>` markup
 
 
-## Coming templates
+Coming templates
 
 * Microformats hNews
 * List with thumbnail image
